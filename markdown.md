@@ -30,6 +30,7 @@ Markdown est un langage de balisage léger utilisé pour formater du texte de ma
     2. Cheese
 
 <p>* : no available</p>
+
 ## Titles and Subtitles
 
 ### Level 1
