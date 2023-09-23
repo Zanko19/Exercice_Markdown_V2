@@ -67,4 +67,12 @@ Markdown est un langage de balisage léger utilisé pour formater du texte de ma
     alert("Hello!");
 </script>
 ```
+```
+<script type="text/javascript" >
+    window.alert("Hello World!");
+
+    alert("Hello World!");
+</script>
+```
+
 
