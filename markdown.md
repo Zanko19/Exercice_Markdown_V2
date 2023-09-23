@@ -21,13 +21,13 @@ Markdown est un langage de balisage léger utilisé pour formater du texte de ma
 
 - Cookies
     1. Peanut
-    1. Coconut
+    2. Coconut
 - Cake
   1. Carrot cake
   2. Lemon cake
-* Sandwich
-    * 1. Ham
-    * 1. Cheese
+- Sandwich
+    1. Ham
+    2. Cheese
 
 ## Titles and Subtitles
 
