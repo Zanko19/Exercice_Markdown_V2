@@ -1,11 +1,14 @@
-# Test Markdown solo maison
-[link to readme](README.md)
-## What is markdown
-Markdown est un langage de balisage léger utilisé pour formater du texte de manière simple et lisible. Il permet de créer des documents structurés en utilisant une syntaxe textuelle minimaliste. Les fichiers Markdown utilisent des symboles tels que "#" pour les titres, "*" pour les listes, et "texte" pour les liens. Markdown est largement utilisé pour la rédaction de documents, la documentation, et la création de contenu web, car il est facile à apprendre et à lire en texte brut. Il peut être converti en HTML ou d'autres formats de sortie avec des outils de conversion, ce qui en fait un choix populaire pour la rédaction en ligne.
 
-![Homer](https://static-cse.canva.com/blob/604057/giphy3.gif)
+[readme](README.md)
 
-Ca ne parait peut-être pas fou mais on peut faire beaucoup de choses avec
+![markdown](https://cdn.hashnode.com/res/hashnode/image/upload/v1605362981730/wDYGLi6rK.png)
+# What is markdown?
+
+Markdown est un langage de balisage léger utilisé pour formater du texte de manière **simple et lisible**. Il permet de créer des documents structurés en utilisant une syntaxe textuelle minimaliste. Les fichiers Markdown utilisent des symboles tels que "#" pour les titres, "*" pour les listes, et "texte" pour les liens. Markdown est largement utilisé pour la rédaction de documents, la documentation et la création de contenu web, car il est facile à apprendre et à lire en texte brut. Il peut être converti en HTML ou d'autres formats de sortie avec des outils de conversion, ce qui en fait un choix populaire pour la rédaction en ligne.
+
+![Homer](https://media.tenor.com/ObpKQHWJ2IYAAAAM/side-eyeing-chloe-chloe.gif)
+
+### Ok mais concrètement?
 
 ##### Quelques ressources : 
 
@@ -56,9 +59,9 @@ Ca ne parait peut-être pas fou mais on peut faire beaucoup de choses avec
 [Youtube](https://www.youtube.com/)
 [MyBeCode](https://my.becode.org/dashboard)
 
-## Static Image
 
-![coffee](https://img.passeportsante.net/1200x675/2021-05-03/i101986-cafe-nu.webp)
+
+
 
 
 
