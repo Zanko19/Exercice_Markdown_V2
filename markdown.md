@@ -11,7 +11,9 @@ Ca ne parait peut-être pas fou mais on peut faire beaucoup de choses avec
 
 [cheat sheet](https://www.freecodecamp.org/news/markdown-cheatsheet/
 )
+
 [another one](https://experienceleague.adobe.com/docs/contributor/contributor-guide/writing-essentials/markdown.html?lang=fr)
+
 [last one](https://docs.zettlr.com/fr/reference/markdown-basics/)
 
 ## Hot chocolate
