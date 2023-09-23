@@ -3,6 +3,17 @@
 ## What is markdown
 Markdown est un langage de balisage léger utilisé pour formater du texte de manière simple et lisible. Il permet de créer des documents structurés en utilisant une syntaxe textuelle minimaliste. Les fichiers Markdown utilisent des symboles tels que "#" pour les titres, "*" pour les listes, et "texte" pour les liens. Markdown est largement utilisé pour la rédaction de documents, la documentation, et la création de contenu web, car il est facile à apprendre et à lire en texte brut. Il peut être converti en HTML ou d'autres formats de sortie avec des outils de conversion, ce qui en fait un choix populaire pour la rédaction en ligne.
 
+![Homer](https://static-cse.canva.com/blob/604057/giphy3.gif)
+
+Ca ne parait peut-être pas fou mais on peut faire beaucoup de choses avec
+
+##### Quelques ressources : 
+
+[cheat sheet](https://www.freecodecamp.org/news/markdown-cheatsheet/
+)
+[another one](https://experienceleague.adobe.com/docs/contributor/contributor-guide/writing-essentials/markdown.html?lang=fr)
+[last one](https://docs.zettlr.com/fr/reference/markdown-basics/)
+
 ## Hot chocolate
 
 - Cocoa
@@ -47,9 +58,8 @@ Markdown est un langage de balisage léger utilisé pour formater du texte de ma
 
 ![coffee](https://img.passeportsante.net/1200x675/2021-05-03/i101986-cafe-nu.webp)
 
-## Animated Image
 
-![Homer](https://static-cse.canva.com/blob/604057/giphy3.gif)
+
 ```
 <script type="text/javascript">
     alert("Hello!");
