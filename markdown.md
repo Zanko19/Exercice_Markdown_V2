@@ -9,7 +9,7 @@ Markdown est un langage de balisage léger utilisé pour formater du texte de ma
 - Vanilla
   - Bourbon
   - Madagascar
-- ~~Caramel~~^*^
+- ~~Caramel~~ ^*^
 
 ## Milk
 
